@@ -1,5 +1,5 @@
 # Numerical Methods
-Lab1 - Linear Equation Solver - Gaussian Elimination
+# Lab1 - Linear Equation Solver - Gaussian Elimination
 Lab2 - Linear Equation Solver - Simple Iteration Method
 Lab3 - Eigenvalues and Eigenvectors -  Danilevsky Method
 Lab4 - Polynomial Interpolation - Newton Method
